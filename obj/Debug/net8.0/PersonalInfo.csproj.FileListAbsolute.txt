@@ -1,0 +1,14 @@
+/Users/Druzhkova/Documents/PersonalInfo/bin/Debug/net8.0/PersonalInfo
+/Users/Druzhkova/Documents/PersonalInfo/bin/Debug/net8.0/PersonalInfo.deps.json
+/Users/Druzhkova/Documents/PersonalInfo/bin/Debug/net8.0/PersonalInfo.runtimeconfig.json
+/Users/Druzhkova/Documents/PersonalInfo/bin/Debug/net8.0/PersonalInfo.dll
+/Users/Druzhkova/Documents/PersonalInfo/bin/Debug/net8.0/PersonalInfo.pdb
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/PersonalInfo.AssemblyInfoInputs.cache
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/PersonalInfo.AssemblyInfo.cs
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/PersonalInfo.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/PersonalInfo.dll
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/refint/PersonalInfo.dll
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/PersonalInfo.pdb
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/PersonalInfo.genruntimeconfig.cache
+/Users/Druzhkova/Documents/PersonalInfo/obj/Debug/net8.0/ref/PersonalInfo.dll
